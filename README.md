@@ -1,2 +1,2 @@
-# .github.io
+# Atomicals devs. 
 Atomicals protocol is a wonder 
